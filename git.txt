@@ -1,2 +1,3 @@
 Welcome to git and github  training 
 I am modifiying this file
+I am using diff command 
